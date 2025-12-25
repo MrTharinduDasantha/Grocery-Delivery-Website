@@ -97,12 +97,12 @@ SELLER_PASSWORD = "admin123"
 - Start the backend server
 ```bash
 cd server
-npm start
+npm run server
 ```
 - Start the frontend
 ```bash
 cd ../client
-npm start
+npm run dev
 ```
 
 
@@ -129,3 +129,4 @@ npm start
 ![image alt](https://github.com/MrTharinduDasantha/Grocery-Delivery-Website/blob/041aab2cff8135872aa6c9eb0d1a53f209289e1a/Img%20-%2012.png)
 
 <h4 align="center"> Don't forget to leave a star ⭐️ </h4>
+
